@@ -1,0 +1,9 @@
+DEBUG tests/list_algos_tests.c:133: ----- RUNNING: ./tests/list_algos_tests
+DEBUG tests/list_algos_tests.c:126: 
+----- test_bubble_sort
+DEBUG tests/list_algos_tests.c:127: 
+----- test_merge_sort
+DEBUG tests/list_algos_tests.c:128: 
+----- test_upmerge_sort
+DEBUG tests/list_algos_tests.c:129: 
+----- test_insert_sorted
