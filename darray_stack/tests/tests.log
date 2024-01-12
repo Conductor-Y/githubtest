@@ -1,0 +1,11 @@
+DEBUG tests/stack_tests.c:64: ----- RUNNING: ./tests/stack_tests
+DEBUG tests/stack_tests.c:57: 
+----- test_create
+DEBUG tests/stack_tests.c:58: 
+----- test_push_pop
+DEBUG tests/stack_tests.c:39: VAL: test1 data
+DEBUG tests/stack_tests.c:39: VAL: test2 data
+DEBUG tests/stack_tests.c:39: VAL: test3 data
+DEBUG tests/stack_tests.c:39: VAL: (null)
+DEBUG tests/stack_tests.c:59: 
+----- test_destroy

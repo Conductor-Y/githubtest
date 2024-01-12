@@ -1,0 +1,20 @@
+DEBUG tests/queue_tests.c:60: ----- RUNNING: ./tests/list_algos_tests
+DEBUG tests/queue_tests.c:53: 
+----- test_create
+DEBUG tests/queue_tests.c:54: 
+----- test_send_recv
+DEBUG tests/queue_tests.c:37: VAL: test1 data
+DEBUG tests/queue_tests.c:37: VAL: test2 data
+DEBUG tests/queue_tests.c:37: VAL: test3 data
+DEBUG tests/queue_tests.c:55: 
+----- test_destroy
+DEBUG tests/queue_tests.c:60: ----- RUNNING: ./tests/queue_tests
+DEBUG tests/queue_tests.c:53: 
+----- test_create
+DEBUG tests/queue_tests.c:54: 
+----- test_send_recv
+DEBUG tests/queue_tests.c:37: VAL: test1 data
+DEBUG tests/queue_tests.c:37: VAL: test2 data
+DEBUG tests/queue_tests.c:37: VAL: test3 data
+DEBUG tests/queue_tests.c:55: 
+----- test_destroy
