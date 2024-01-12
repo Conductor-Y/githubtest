@@ -24,6 +24,7 @@ $(TARGET): build $(OBJECTS)
 
 $(SO_TARGET): $(TARGET) $(OBJECTS)
 	$(CC) -shared -o $@ $(OBJECTS)
+	$(CC) $(CFLAGS) $(TEST_SRC) $(TARGET)  -o tests/your_tests
 
 build:
 	@mkdir -p build
